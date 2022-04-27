@@ -9,16 +9,16 @@ skill: Communication
 
 <ul>
     <li>
-      <a href="/skills/communication">Communication</a>
+      <a href="{{ site.baseurl }}/skills/communication">Communication</a>
     </li>
     <li>
-      <a href="/skills/learning">Learning</a>
+      <a href="{{ site.baseurl }}/skills/learning">Learning</a>
     </li>
     <li>
-      <a href="/skills/leading">Leading</a>
+      <a href="{{ site.baseurl }}/skills/leading">Leading</a>
     </li>
     <li>
-      <a href="/skills/ownership">Ownership</a>
+      <a href="{{ site.baseurl }}/skills/ownership">Ownership</a>
     </li>
 </ul>
 
@@ -26,24 +26,24 @@ skill: Communication
 
 <ul>
     <li>
-      <a href="/level/8">8</a>
+      <a href="{{ site.baseurl }}/level/8">8</a>
     </li>
     <li>
-      <a href="/level/9">9</a>
+      <a href="{{ site.baseurl }}/level/9">9</a>
     </li>
     <li>
-      <a href="/level/10">10</a>
+      <a href="{{ site.baseurl }}/level/10">10</a>
     </li>
     <li>
-      <a href="/level/11">11</a>
+      <a href="{{ site.baseurl }}/level/11">11</a>
     </li>
     <li>
-      <a href="/level/12">12</a>
+      <a href="{{ site.baseurl }}/level/12">12</a>
     </li>
     <li>
-      <a href="/level/13">13</a>
+      <a href="{{ site.baseurl }}/level/13">13</a>
     </li>
     <li>
-      <a href="/level/14">14</a>
+      <a href="{{ site.baseurl }}/level/14">14</a>
     </li>
 </ul>
