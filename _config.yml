@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: SecretSourceWeb.github.io
+url: secretsourceweb.github.io
 baseurl: /professional-ladder
 
 # Exclude from processing.
