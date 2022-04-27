@@ -1,0 +1,6 @@
+{% for entry in site.ladder %}
+{% if page.level == entry.level %}
+  <h2>{{ entry.skill }}</h2>
+  <p>{{ entry.content }}</p>
+{% endif %}
+{% endfor %}
