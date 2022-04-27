@@ -5,7 +5,6 @@
 layout: default
 skill: Communication
 ---
-# Professional Ladder
 ## By Skill
 
 <ul>
