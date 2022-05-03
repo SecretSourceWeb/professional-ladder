@@ -2,6 +2,22 @@
 
 This is our professional ladder
 
+## Installation
+
+The repo uses Jekyll to generate the HTML. Assuming you have a functioning [Ruby and Jekyll installation](https://jekyllrb.com/docs/installation/), just run:
+
+```
+bundle install
+```
+
+to install the required gems and
+
+```
+bundle exec jekyll serve
+```
+
+to compile and view the site.
+
 
 ## License
 
