@@ -22,7 +22,8 @@ title: Secret Source Professional Ladder
 description: >- # this means to ignore newlines until "baseurl:"
   All developers at Secret Source are ranked at one of levels 8-14.
   The professional ladder is designed to help you succeed by providing clear examples of what success looks like in different areas and at different levels. 
-
+copyright: Secret Source Technology, 2017
+secretsourceurl: https://secret-source.eu/
 
 collections:
   ladder:
