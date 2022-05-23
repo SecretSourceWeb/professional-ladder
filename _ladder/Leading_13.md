@@ -6,3 +6,4 @@ Someone who can confidently lead a team on a large project (6 months+), they wil
 
 - sets reasonable and effective standards for how something should be done (PR templates as an example)
 - Based on team feedback, adjusts development approach or even methodology so that efficiencies are increased
+- Insights begin to take on the characteristic of brilliance, seeing beyond the obvious and taking into account the definition of success for the project.
