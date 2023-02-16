@@ -20,6 +20,9 @@ skill: Communication
     <li>
       <a href="{{ site.baseurl }}/skills/ownership">Ownership</a>
     </li>
+    <li>
+      <a href="{{ site.baseurl }}/skills/technical">Technical</a>
+    </li>
 </ul>
 
 ## By Level
