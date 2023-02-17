@@ -1,4 +1,5 @@
-{% for entry in site.ladder %}
+{% assign entries = site.ladder | sort: "level" %}
+{% for entry in entries %}
 {% if page.skill == entry.skill %}
   <h2>level {{ entry.level }}</h2>
   <p>{{ entry.content }}</p>
